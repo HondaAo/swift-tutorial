@@ -11,7 +11,7 @@ import SwiftUI
 struct Nova_VideoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LandmarkList()
         }
     }
 }
