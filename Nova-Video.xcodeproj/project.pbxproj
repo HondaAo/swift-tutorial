@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F0A4D95B28BB23E5002A7507 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0A4D95A28BB23E5002A7507 /* MapView.swift */; };
+		F0A4D95C28BB23E5002A7507 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0A4D95A28BB23E5002A7507 /* MapView.swift */; };
+		F0A4D95E28BB2700002A7507 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0A4D95D28BB2700002A7507 /* CircleImage.swift */; };
+		F0A4D95F28BB2700002A7507 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0A4D95D28BB2700002A7507 /* CircleImage.swift */; };
 		F0EB47852867175C0026EAAF /* Nova_VideoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0EB4772286717510026EAAF /* Nova_VideoApp.swift */; };
 		F0EB47862867175C0026EAAF /* Nova_VideoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0EB4772286717510026EAAF /* Nova_VideoApp.swift */; };
 		F0EB47872867175C0026EAAF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0EB4773286717510026EAAF /* ContentView.swift */; };
@@ -16,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F0A4D95A28BB23E5002A7507 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		F0A4D95D28BB2700002A7507 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		F0EB4772286717510026EAAF /* Nova_VideoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nova_VideoApp.swift; sourceTree = "<group>"; };
 		F0EB4773286717510026EAAF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F0EB47742867175C0026EAAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -59,6 +65,8 @@
 			children = (
 				F0EB4772286717510026EAAF /* Nova_VideoApp.swift */,
 				F0EB4773286717510026EAAF /* ContentView.swift */,
+				F0A4D95A28BB23E5002A7507 /* MapView.swift */,
+				F0A4D95D28BB2700002A7507 /* CircleImage.swift */,
 				F0EB47742867175C0026EAAF /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -188,6 +196,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F0EB47872867175C0026EAAF /* ContentView.swift in Sources */,
+				F0A4D95E28BB2700002A7507 /* CircleImage.swift in Sources */,
+				F0A4D95B28BB23E5002A7507 /* MapView.swift in Sources */,
 				F0EB47852867175C0026EAAF /* Nova_VideoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -197,6 +207,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F0EB47882867175C0026EAAF /* ContentView.swift in Sources */,
+				F0A4D95F28BB2700002A7507 /* CircleImage.swift in Sources */,
+				F0A4D95C28BB23E5002A7507 /* MapView.swift in Sources */,
 				F0EB47862867175C0026EAAF /* Nova_VideoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
